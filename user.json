@@ -1,0 +1,77 @@
+{
+  "userId": 1,
+  "userName": "Skell",
+  "fullName": "Escala",
+  "profileImage": "sescala0@github.io",
+  "capshots": [
+    {
+      "id": 1,
+      "image": {
+        "previewUrl": "http://dummyimage.com/222x135.jpg/5fa2dd/ffffff",
+        "url": "http://dummyimage.com/782x536.jpg/dddddd/000000"
+      }
+    },
+    {
+      "id": 2,
+      "image": {
+        "previewUrl": "http://dummyimage.com/231x128.bmp/cc0000/ffffff",
+        "url": "http://dummyimage.com/542x833.jpg/cc0000/ffffff"
+      }
+    },
+    {
+      "id": 3,
+      "image": {
+        "previewUrl": "http://dummyimage.com/159x157.bmp/5fa2dd/ffffff",
+        "url": "http://dummyimage.com/621x945.png/cc0000/ffffff"
+      }
+    },
+    {
+      "id": 4,
+      "image": {
+        "previewUrl": "http://dummyimage.com/194x170.bmp/5fa2dd/ffffff",
+        "url": "http://dummyimage.com/503x523.bmp/dddddd/000000"
+      }
+    },
+    {
+      "id": 5,
+      "image": {
+        "previewUrl": "http://dummyimage.com/241x138.jpg/cc0000/ffffff",
+        "url": "http://dummyimage.com/953x600.jpg/5fa2dd/ffffff"
+      }
+    }
+  ],
+  "followers": [
+    {
+      "id": 8723
+    },
+    {
+      "id": 2199
+    },
+    {
+      "id": 9449
+    },
+    {
+      "id": 6975
+    },
+    {
+      "id": 8834
+    }
+  ],
+  "following": [
+    {
+      "id": 911
+    },
+    {
+      "id": 244
+    },
+    {
+      "id": 627
+    },
+    {
+      "id": 533
+    },
+    {
+      "id": 153
+    }
+  ]
+}
